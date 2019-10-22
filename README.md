@@ -15,3 +15,8 @@ https://yadi.sk/i/XqYwUpSRrSmsqg
 Scratch example
 
 https://yadi.sk/i/MH8LXn6x95P5yQ
+
+
+Как сохранять проект
+
+https://github.com/algo1-lesnaya-skaska/lesson2/blob/master/scratch_save.pdf
