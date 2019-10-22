@@ -12,6 +12,10 @@ Scratch 3 manual
 
 https://yadi.sk/i/XqYwUpSRrSmsqg
 
+Sarcht 3 Graph Editor
+
+https://yadi.sk/i/oj1jZ2D3Gmos_w
+
 Scratch example
 
 https://yadi.sk/i/MH8LXn6x95P5yQ
