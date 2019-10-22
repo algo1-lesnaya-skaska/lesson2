@@ -4,22 +4,21 @@ Scratch 3 : https://scratch.mit.edu/download
 
 https://downloads.scratch.mit.edu/desktop/Scratch%20Desktop%20Setup%203.6.0.exe
 
-Book
-
-https://yadi.sk/d/1KWhK7OMs4j4Sw
-
-Scratch 3 manual
-
-https://yadi.sk/i/XqYwUpSRrSmsqg
-
 Sarcht 3 Graph Editor
 
 https://yadi.sk/i/oj1jZ2D3Gmos_w
 
-Scratch example
+Scratch lesson2
 
-https://yadi.sk/i/MH8LXn6x95P5yQ
+https://yadi.sk/i/Ihj-_itMeHwu-A
 
+Scratch3 cards
+
+https://resources.scratch.mit.edu/www/cards/ru/scratch-cards-all.pdf
+
+Scratch 3 manual
+
+https://yadi.sk/i/XqYwUpSRrSmsqg
 
 Как сохранять проект
 
